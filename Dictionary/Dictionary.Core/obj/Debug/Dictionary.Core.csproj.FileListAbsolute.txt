@@ -7,3 +7,12 @@ C:\dev\trash\Dictionary\Dictionary.Core\bin\Debug\Newtonsoft.Json.xml
 C:\dev\trash\Dictionary\Dictionary.Core\obj\Debug\Dictionary.Core.csprojResolveAssemblyReference.cache
 C:\dev\trash\Dictionary\Dictionary.Core\obj\Debug\Dictionary.Core.dll
 C:\dev\trash\Dictionary\Dictionary.Core\obj\Debug\Dictionary.Core.pdb
+C:\dev\origin\13a-Hackathon\Dictionary\Dictionary.Core\bin\Debug\Dictionary.Core.dll.config
+C:\dev\origin\13a-Hackathon\Dictionary\Dictionary.Core\bin\Debug\Dictionary.Core.dll
+C:\dev\origin\13a-Hackathon\Dictionary\Dictionary.Core\bin\Debug\Dictionary.Core.pdb
+C:\dev\origin\13a-Hackathon\Dictionary\Dictionary.Core\bin\Debug\Newtonsoft.Json.dll
+C:\dev\origin\13a-Hackathon\Dictionary\Dictionary.Core\bin\Debug\unirest-net.dll
+C:\dev\origin\13a-Hackathon\Dictionary\Dictionary.Core\bin\Debug\Newtonsoft.Json.xml
+C:\dev\origin\13a-Hackathon\Dictionary\Dictionary.Core\obj\Debug\Dictionary.Core.csprojResolveAssemblyReference.cache
+C:\dev\origin\13a-Hackathon\Dictionary\Dictionary.Core\obj\Debug\Dictionary.Core.dll
+C:\dev\origin\13a-Hackathon\Dictionary\Dictionary.Core\obj\Debug\Dictionary.Core.pdb
